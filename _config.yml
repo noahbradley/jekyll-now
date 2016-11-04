@@ -2,10 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Noah Bradley
-tagline:             The Jekyll Butler
+title:               The Sin of Man
+tagline:             by Noah Bradley
 url:                 https://noahbradley.github.io/
-paginate:            1
 baseurl:             ""
 
 # Assets
@@ -17,8 +16,8 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
+  name:              Noah Bradley
+  url:               https://noahbradley.com
   email:             markdotto@gmail.com
 
 # Custom vars
@@ -26,7 +25,11 @@ version:             2.0.0
 github:
   repo:              https://github.com/poole/poole
 
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
+
 # Gems
 gems:
-  - jekyll-paginate
   - jekyll-gist
