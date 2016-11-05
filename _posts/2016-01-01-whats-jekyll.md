@@ -3,7 +3,7 @@ layout: post
 title: What's Jekyll?
 ---
 
-![The Last Whisper]({{ site.url }}{{ site.baseurl }}/_images/Noah-Bradley_The-Sin-of-Man_The-Last-Whisper_highres.jpg "The Last Whisper")
+![The Last Whisper]({{ site.url }}{{ site.baseurl }}_images/Noah-Bradley_The-Sin-of-Man_The-Last-Whisper_highres.jpg "The Last Whisper")
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
 
